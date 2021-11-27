@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/openai/static/css/main.c40b492d.chunk.css",
+    "main.js": "/openai/static/js/main.477f0571.chunk.js",
+    "main.js.map": "/openai/static/js/main.477f0571.chunk.js.map",
+    "runtime-main.js": "/openai/static/js/runtime-main.592543eb.js",
+    "runtime-main.js.map": "/openai/static/js/runtime-main.592543eb.js.map",
+    "static/js/2.d007f8e6.chunk.js": "/openai/static/js/2.d007f8e6.chunk.js",
+    "static/js/2.d007f8e6.chunk.js.map": "/openai/static/js/2.d007f8e6.chunk.js.map",
+    "index.html": "/openai/index.html",
+    "static/css/main.c40b492d.chunk.css.map": "/openai/static/css/main.c40b492d.chunk.css.map",
+    "static/js/2.d007f8e6.chunk.js.LICENSE.txt": "/openai/static/js/2.d007f8e6.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/openai/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/openai/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/openai/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/openai/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/openai/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/openai/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/openai/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/openai/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/openai/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.592543eb.js",
+    "static/js/2.d007f8e6.chunk.js",
+    "static/css/main.c40b492d.chunk.css",
+    "static/js/main.477f0571.chunk.js"
+  ]
+}
